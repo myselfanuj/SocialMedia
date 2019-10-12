@@ -1,0 +1,4 @@
+.gradle/
+ParseStarterProject/build/
+build/
+*.iml
