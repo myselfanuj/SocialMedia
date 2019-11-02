@@ -5,4 +5,4 @@
 
 ## DEMO
 
-![](gif/demo.gif)
+![](gif/Demo.gif)
