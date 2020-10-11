@@ -10,3 +10,8 @@
 
 
 ![](gif/Demo.gif)
+
+# Technology Stacks
+
+* Android(Java)
+* AWS Storage
